@@ -92,7 +92,7 @@ for tid, target in tqdm(swords['targets'].items()):
   scores = [l.count('TRUE') / len(l) for l in labels]
   all_substitutes = []
   for substitute, score in sorted(zip(substitutes, scores), key=lambda x: -x[1]):
-    if score < 0.5:
+    if score <= 0.5:
       continue
     cefr = get_cefr_level(context['context'].replace(target['target'], substitute['substitute']), substitute['substitute'])
     if cefr is not None and cefr < target_cefr:
