@@ -52,21 +52,6 @@
         "substitute": "reckon",
         "score": 60,
         "cefr": 3
-      },
-      {
-        "substitute": "conclude",
-        "score": 50,
-        "cefr": 2
-      },
-      {
-        "substitute": "speculate",
-        "score": 50,
-        "cefr": 3
-      },
-      {
-        "substitute": "suspect",
-        "score": 50,
-        "cefr": 3
       }
     ]
   },
@@ -113,16 +98,6 @@
         "substitute": "try",
         "score": 70,
         "cefr": 0
-      },
-      {
-        "substitute": "search",
-        "score": 50,
-        "cefr": 1
-      },
-      {
-        "substitute": "explore",
-        "score": 50,
-        "cefr": 2
       }
     ]
   },
@@ -155,16 +130,6 @@
       {
         "substitute": "send",
         "score": 60,
-        "cefr": 0
-      },
-      {
-        "substitute": "set",
-        "score": 50,
-        "cefr": 2
-      },
-      {
-        "substitute": "get",
-        "score": 50,
         "cefr": 0
       }
     ]
