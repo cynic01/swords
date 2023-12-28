@@ -1,0 +1,172 @@
+[
+  {
+    "context": "Kim:\n\t\t\t\tI have completed the invoices for April, May and June and we owe\n\t\t\t\t\tPasadena each month for a total of $3,615,910.62. I am waiting to hear\n\t\t\t\t\tback from Patti on May and June to make sure they are okay with her.",
+    "target": "total",
+    "target_pos": "NOUN",
+    "target_cefr": 2,
+    "substitutes": [
+      {
+        "substitute": "sum",
+        "score": 80,
+        "cefr": 2
+      },
+      {
+        "substitute": "sum total",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "balance",
+        "score": 60,
+        "cefr": 2
+      },
+      {
+        "substitute": "gross",
+        "score": 60,
+        "cefr": 4
+      }
+    ]
+  },
+  {
+    "context": "Nepthys turned to me. “Well, kid, what do you think? Remember, this is your quest.",
+    "target": "think",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "have in mind",
+        "score": 90,
+        "cefr": null
+      },
+      {
+        "substitute": "suppose",
+        "score": 80,
+        "cefr": 1
+      },
+      {
+        "substitute": "presume",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "reckon",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "conclude",
+        "score": 50,
+        "cefr": 2
+      },
+      {
+        "substitute": "speculate",
+        "score": 50,
+        "cefr": 3
+      },
+      {
+        "substitute": "suspect",
+        "score": 50,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "He turned to me. Nepthys nodded: “It’s okay, you can trust him. That’s why we came here.”",
+    "target": "okay",
+    "target_pos": "ADJ",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "ok",
+        "score": 90,
+        "cefr": 0
+      },
+      {
+        "substitute": "fine",
+        "score": 80,
+        "cefr": 0
+      },
+      {
+        "substitute": "alright",
+        "score": 70,
+        "cefr": 1
+      },
+      {
+        "substitute": "all right",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "“Listen, man, he’s not there! I’m telling you, it’s not even worth checking the bar!” I turned to keep going, but he caught my arm again.",
+    "target": "checking",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "investigate",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "try",
+        "score": 70,
+        "cefr": 0
+      },
+      {
+        "substitute": "search",
+        "score": 50,
+        "cefr": 1
+      },
+      {
+        "substitute": "explore",
+        "score": 50,
+        "cefr": 2
+      }
+    ]
+  },
+  {
+    "context": "…I thought as much. Now leave, before I call the rats on you.”\n            We left.",
+    "target": "call",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "summon",
+        "score": 90,
+        "cefr": 5
+      },
+      {
+        "substitute": "order",
+        "score": 80,
+        "cefr": 0
+      },
+      {
+        "substitute": "sic",
+        "score": 60,
+        "cefr": 6
+      },
+      {
+        "substitute": "rally",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "send",
+        "score": 60,
+        "cefr": 0
+      },
+      {
+        "substitute": "set",
+        "score": 50,
+        "cefr": 2
+      },
+      {
+        "substitute": "get",
+        "score": 50,
+        "cefr": 0
+      }
+    ]
+  }
+]
