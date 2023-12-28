@@ -1,11 +1,9 @@
 from collections import defaultdict
 from tqdm import tqdm
+import os
 import gzip
 import json
 import requests
-
-client_id = "5cc511c3-916b-41b4-8eb9-7be024e03128"
-client_secret = "e9310057-bae3-44f1-9244-b62c7de3f8a2"
 
 def get_cefr_level(original_context, target_word):
     '''
@@ -13,8 +11,8 @@ def get_cefr_level(original_context, target_word):
     '''
 
     data = {
-        'client_id': client_id,
-        'client_secret': client_secret,
+        'client_id': os.getenv("CATHOVEN_CLIENT_ID"),
+        'client_secret': os.getenv("CATHOVEN_CLIENT_SECRET"),
         'keep_min': "true",  # Replace value with the actual value
         'return_final_levels': "true",  # Replace value with the actual value
         'text': original_context,
