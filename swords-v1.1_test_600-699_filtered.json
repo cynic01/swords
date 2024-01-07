@@ -1,0 +1,2539 @@
+[
+  {
+    "context": "Tasha looked at me as if to say, \"I will.\"\n                    She said, \"I feel sorry for you, Nardo. I'll see Emil home.\"",
+    "target": "sorry",
+    "target_pos": "ADJ",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "sad",
+        "score": 80,
+        "cefr": 0
+      },
+      {
+        "substitute": "bad",
+        "score": 80,
+        "cefr": 0
+      },
+      {
+        "substitute": "saddened",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "sympathy",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "terrible",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "She says I am emotionally a child, to which I reply, \"Of\n                    course. Why else would I come to you?\" This logic does not soothe her; she says\n                    I must wait three weeks.",
+    "target": "come",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "come over",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "approach",
+        "score": 60,
+        "cefr": 2
+      }
+    ]
+  },
+  {
+    "context": "Catching herself, she said casually, \"Oh...\" And\n                    then she smiled, laughed loudly at herself in the way that always made me think\n                    how much I loved her, and said, \"My God, yes, yes, yes!\" For a perfect moment,\n                    Emil and Tasha and I were one entity, laughing until our lungs hurt. \n                 This is torture.",
+    "target": "hurt",
+    "target_pos": "VERB",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "be sore",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "upset",
+        "score": 60,
+        "cefr": 2
+      },
+      {
+        "substitute": "ache",
+        "score": 60,
+        "cefr": 1
+      },
+      {
+        "substitute": "experience pain",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "(I do\n                    not remember any of this well, just now, nor do I care to. Those who are truly\n                    curious may look at the last act of \"Captured Moments.\") I remember suggesting,\n                    with characteristic tact, that she add Emil to her small list of major\n                    accomplishments.",
+    "target": "last",
+    "target_pos": "ADJ",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "finishing",
+        "score": 80,
+        "cefr": 5
+      },
+      {
+        "substitute": "concluding",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "ultimate",
+        "score": 60,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "But if Tasha will forgive me\n                    --\" \n                 He nodded, repeated, \"I am sorry,\" then slipped into the next room. I waited in\n                    the dark, carpeted hall.",
+    "target": "next",
+    "target_pos": "ADJ",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "adjacent",
+        "score": 80,
+        "cefr": 4
+      },
+      {
+        "substitute": "nearest",
+        "score": 80,
+        "cefr": 0
+      },
+      {
+        "substitute": "closest",
+        "score": 70,
+        "cefr": 0
+      },
+      {
+        "substitute": "adjoining",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "other",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "\"Has she said as much about me?\" \n                 \"She thinks you are a genius. Do come in.\"",
+    "target": "thinks",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "reckon",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "deduce",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "infer",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "sense",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "presume",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "feel",
+        "score": 60,
+        "cefr": 0
+      },
+      {
+        "substitute": "assume",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "consider",
+        "score": 60,
+        "cefr": 1
+      },
+      {
+        "substitute": "reason",
+        "score": 60,
+        "cefr": 0
+      },
+      {
+        "substitute": "believe",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": ", she -- \n                 Tasha is not the whole of what happened on Vega IV. I must also write about\n                    Emiliano Gabriel Malaquez.",
+    "target": "whole",
+    "target_pos": "NOUN",
+    "target_cefr": 2,
+    "substitutes": [
+      {
+        "substitute": "totality",
+        "score": 80,
+        "cefr": 4
+      },
+      {
+        "substitute": "total",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "entirety",
+        "score": 70,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "Malaquez said, \"Your pet?\" \n                 \"Hardly. He lives around here somewhere.",
+    "target": "Hardly",
+    "target_pos": "ADV",
+    "target_cefr": 2,
+    "substitutes": []
+  },
+  {
+    "context": "\"The thing that will really break this market right open is merchandising,\" Ms. West says.  \n\nMuch of the 800 service will \"migrate to 900,\" predicts Jack Lawless, general manager of US Sprint's 900 product.  \n\nFAMILY PETS are improving recovery rates of patients at Columbia Hospital, Milwaukee.",
+    "target": "migrate",
+    "target_pos": "VERB",
+    "target_cefr": 3,
+    "substitutes": [
+      {
+        "substitute": "shift",
+        "score": 70,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "Instead, I asked, \"Is he handsome?\" \n                 \"You're jealous.\" \n                 \"A tiny bit.",
+    "target": "jealous",
+    "target_pos": "ADJ",
+    "target_cefr": 2,
+    "substitutes": [
+      {
+        "substitute": "envious",
+        "score": 90,
+        "cefr": 4
+      },
+      {
+        "substitute": "envying",
+        "score": 80,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "Tasha said. \n                 \" --was kindly received,\" he said. \"But an artist who would stay first among his\n                    fellows can tell when he begins to fail.\"",
+    "target": "said",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "reply",
+        "score": 70,
+        "cefr": 1
+      },
+      {
+        "substitute": "answer",
+        "score": 60,
+        "cefr": 0
+      },
+      {
+        "substitute": "comment",
+        "score": 60,
+        "cefr": 1
+      },
+      {
+        "substitute": "respond",
+        "score": 60,
+        "cefr": 1
+      }
+    ]
+  },
+  {
+    "context": "\"True.\" \n                 \"He may come to dinner?\" \n                 \"If you wish, he may be dinner.\"",
+    "target": "come",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "show up",
+        "score": 90,
+        "cefr": null
+      },
+      {
+        "substitute": "come over",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "drop in",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "arrive",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "\"Perhaps.\" \n                 \"I think his face is his form of vanity. It's the reverse of you with those\n                    ridiculous stomach muscles.",
+    "target": "form",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "type",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "After the Panama fiasco, they will need some reassurance.\nCertainly, the Colombian press is much in need of that.",
+    "target": "need",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": []
+  },
+  {
+    "context": "\"It has no tower.\" \n                 \"I can fix that.\" She reached for another dial on the house controls.",
+    "target": "fix",
+    "target_pos": "VERB",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "resolve",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "mend",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "repair",
+        "score": 60,
+        "cefr": 1
+      },
+      {
+        "substitute": "attend to",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "remedy",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "solve",
+        "score": 60,
+        "cefr": 1
+      }
+    ]
+  },
+  {
+    "context": "10 as the deadline for the receipt of any competing bids. DD Acquisition said the extension is to allow this process to be completed. Dunkin' is based in Randolph, Mass.",
+    "target": "process",
+    "target_pos": "NOUN",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "course of action",
+        "score": 90,
+        "cefr": null
+      },
+      {
+        "substitute": "progression",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "procedure",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "operation",
+        "score": 60,
+        "cefr": 2
+      },
+      {
+        "substitute": "case",
+        "score": 60,
+        "cefr": 1
+      },
+      {
+        "substitute": "proceeding",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "transaction",
+        "score": 60,
+        "cefr": 4
+      }
+    ]
+  },
+  {
+    "context": "\"I suppose I sound like I'm bragging when I talk of the things I'm tired of.\" \n                 \"Only because you are.\" She smiled.",
+    "target": "Only",
+    "target_pos": "ADV",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "solely",
+        "score": 80,
+        "cefr": 4
+      },
+      {
+        "substitute": "merely",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "simply",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "entirely",
+        "score": 60,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "Be glad someone didn't toss that to you.\" He spoke of his art with the\n                    enthusiasm of a seven-year-old. \"Um, I should wait to importune you, but...\"",
+    "target": "old",
+    "target_pos": "ADJ",
+    "target_cefr": null,
+    "substitutes": []
+  },
+  {
+    "context": "Tasha said, \"A little fellow with big, furry feet. What else could he be\n                    called?\" She handed the sculpture to me.",
+    "target": "called",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "describe as",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "name",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "Also spurring the move to cloth: diaper covers with Velcro fasteners that eliminate the need for safety pins.  \n\nBRIEFS: Only 57.6% of New Yorkers watch the local news, the lowest viewership in the country, says a new study by Impact Resources Inc., Columbus, Ohio. . . . FreudToy, a pillow bearing the likeness of Sigmund Freud, is marketed as a $24.95 tool for do-it-yourself analysis.",
+    "target": "local",
+    "target_pos": "ADJ",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "community",
+        "score": 70,
+        "cefr": 1
+      },
+      {
+        "substitute": "regional",
+        "score": 70,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "\"Yes.\" \n                 \"I am jealous. I'll eat two dinners tonight.",
+    "target": "jealous",
+    "target_pos": "ADJ",
+    "target_cefr": 2,
+    "substitutes": [
+      {
+        "substitute": "envious",
+        "score": 80,
+        "cefr": 4
+      },
+      {
+        "substitute": "envying",
+        "score": 60,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "As for the issue itself, I'm no longer sure what I want to record. The\n                    playwright in me wants every scene of our time together. The editor says no,\n                    only those that are relevant.",
+    "target": "wants",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "desire",
+        "score": 80,
+        "cefr": 3
+      },
+      {
+        "substitute": "itch for",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "\"This is cosmetic?\" \n                 \"He's not that ugly. I think they're his natural features.\"",
+    "target": "ugly",
+    "target_pos": "ADJ",
+    "target_cefr": 2,
+    "substitutes": [
+      {
+        "substitute": "unpleasant",
+        "score": 90,
+        "cefr": 2
+      },
+      {
+        "substitute": "unattractive",
+        "score": 90,
+        "cefr": 2
+      },
+      {
+        "substitute": "bad-looking",
+        "score": 90,
+        "cefr": 6
+      },
+      {
+        "substitute": "unsightly",
+        "score": 80,
+        "cefr": 4
+      },
+      {
+        "substitute": "repulsive",
+        "score": 80,
+        "cefr": 5
+      },
+      {
+        "substitute": "uncomely",
+        "score": 70,
+        "cefr": 6
+      },
+      {
+        "substitute": "disfigured",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "grotesque",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "hideous",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "gross",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "deformed",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "grisly",
+        "score": 60,
+        "cefr": 6
+      },
+      {
+        "substitute": "unlovely",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "repugnant",
+        "score": 60,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "A warm breeze came from silent vents above me. I heard\n                    no voices until Malaquez said, \"Enter.\" \n                 I blinked when I opened the door.",
+    "target": "voices",
+    "target_pos": "NOUN",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "utterance",
+        "score": 60,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "A spokesman for the Toronto cable television and telecommunications concern said the coupon rate hasn't yet been fixed, but will probably be set at around 8%. He declined to discuss other terms of the issue.",
+    "target": "declined",
+    "target_pos": "VERB",
+    "target_cefr": 3,
+    "substitutes": [
+      {
+        "substitute": "refrain",
+        "score": 60,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "-- occupied The Flamingo. \n                 I do not plan to write a book: this narrative must move more quickly. Tasha and\n                    I became lovers that evening, after a good dinner of paella at her apartment.",
+    "target": "move",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "go",
+        "score": 90,
+        "cefr": 0
+      },
+      {
+        "substitute": "proceed",
+        "score": 90,
+        "cefr": 3
+      },
+      {
+        "substitute": "get going",
+        "score": 80,
+        "cefr": null
+      },
+      {
+        "substitute": "progress",
+        "score": 80,
+        "cefr": 3
+      },
+      {
+        "substitute": "take off",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "advance",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "be in motion",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "flow",
+        "score": 60,
+        "cefr": 2
+      }
+    ]
+  },
+  {
+    "context": "\"You wish to become pregnant? I suppose I could\n                    assist a friend. Purely for the sake of the race, of course --\"",
+    "target": "friend",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "buddy",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "mate",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "comrade",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "ally",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "chum",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "pal",
+        "score": 60,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "Reed International PLC said that net income for the six months ended Oct. 1 slipped 5% to #89.7 million ($141.9 million), or 16 pence a share, from #94.8 million ($149.9 million), or 17.3 pence a share.  \n\nThe British paper, packaging and publishing concern, said profit from continuing lines fell 10% to #118 million from #130.6 million.",
+    "target": "income",
+    "target_pos": "NOUN",
+    "target_cefr": 3,
+    "substitutes": [
+      {
+        "substitute": "earnings",
+        "score": 100,
+        "cefr": 3
+      },
+      {
+        "substitute": "gains",
+        "score": 90,
+        "cefr": 3
+      },
+      {
+        "substitute": "proceeds",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "earning",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "revenue",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "money earned by work or investments",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "\"Ah, she is wonderfully perceptive.\" \n                 He raised an eyebrow, then guffawed. \"Has she said as much about me?\"",
+    "target": "raised",
+    "target_pos": "VERB",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "lift",
+        "score": 70,
+        "cefr": 1
+      }
+    ]
+  },
+  {
+    "context": "\"Oh.\" \n                 \"You don't know who he is?\" \n                 \"Well...\"",
+    "target": "know",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "have knowledge of",
+        "score": 80,
+        "cefr": null
+      },
+      {
+        "substitute": "recognize",
+        "score": 70,
+        "cefr": 1
+      },
+      {
+        "substitute": "have familiarity with",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "realize",
+        "score": 60,
+        "cefr": 1
+      }
+    ]
+  },
+  {
+    "context": "\"Silly Nardo.\" \n                 \"Then I give up.\" \n                 \"Emil Malaquez is buying the house up the hill.\"",
+    "target": "Then",
+    "target_pos": "ADV",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "and so",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "in that case",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "A spokeswoman for Crum & Forster said employees were told early this week that numerous staff functions for the personal insurance lines were going to be centralized as a cost-cutting move.  \n\nShe said the move would result in a after-tax charge of less than $4 million to be spread over the next three quarters. By comparison, for the first nine months, Xerox earned $492 million, or $4.55 a share, on revenue of $12.97 billion.",
+    "target": "result",
+    "target_pos": "VERB",
+    "target_cefr": 2,
+    "substitutes": [
+      {
+        "substitute": "culminate",
+        "score": 60,
+        "cefr": 4
+      }
+    ]
+  },
+  {
+    "context": "Call me\n                    Bernardo.\" \n                 \"If you wish.\" \n                 \"I beg you, change the color of the walls, at the very least.\"",
+    "target": "wish",
+    "target_pos": "VERB",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "desire",
+        "score": 80,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "And Tasha? I could say that I did not dare to take responsibility for her fate.\n                    I could say that I chose out of consideration for her desire for fame; some\n                    critics already say \"Waking With Tasha\" is Malaquez's finest work.",
+    "target": "responsibility",
+    "target_pos": "NOUN",
+    "target_cefr": 2,
+    "substitutes": [
+      {
+        "substitute": "accountability",
+        "score": 80,
+        "cefr": 4
+      }
+    ]
+  },
+  {
+    "context": "Travelers Corp. 's third-quarter net income rose 11%, even though claims stemming from Hurricane Hugo reduced results $40 million.  \n\nNet advanced to $94.2 million, or 89 cents a share, from $85 million, or 83 cents a share, including net realized investment gains of $31 million, up from $10 million a year ago.",
+    "target": "rose",
+    "target_pos": "VERB",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "rise",
+        "score": 80,
+        "cefr": 1
+      },
+      {
+        "substitute": "raise",
+        "score": 80,
+        "cefr": 1
+      },
+      {
+        "substitute": "rise up",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "move up",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "go up",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "soar",
+        "score": 60,
+        "cefr": 4
+      }
+    ]
+  },
+  {
+    "context": "The White House said President Bush has approved duty-free treatment for imports of certain types of watches that aren't produced in \"significant quantities\" in the U.S., the Virgin Islands and other U.S. possessions.  \n\nThe action came in response to a petition filed by Timex Inc. for changes in the U.S. Generalized System of Preferences for imports from developing nations.",
+    "target": "treatment",
+    "target_pos": "NOUN",
+    "target_cefr": 2,
+    "substitutes": []
+  },
+  {
+    "context": "\"I didn't meet him, jealous old one.\" \n                 \"Too bad. If I thought he could free me from you --\"",
+    "target": "bad",
+    "target_pos": "ADJ",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "unfortunate",
+        "score": 60,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "\"Yes.\" \n                 \"May I see her?\" When he hesitated, I said, \"Last night was my fault.",
+    "target": "see",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "visit",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "Coleco Industries Inc., a once high-flying toy maker whose stock peaked at $65 a share in the early 1980s, filed a Chapter 11 reorganization plan that provides just 1.125 cents a share for common stockholders.  \n\nUnder the plan, unsecured creditors, who are owed about $430 million, would receive about $92 million, or 21 cents for each dollar they are owed. In addition, they will receive stock in the reorganized company, which will be named Ranger Industries Inc.",
+    "target": "owed",
+    "target_pos": "VERB",
+    "target_cefr": 2,
+    "substitutes": [
+      {
+        "substitute": "entitle to",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "due",
+        "score": 70,
+        "cefr": 2
+      }
+    ]
+  },
+  {
+    "context": "But more serious applications are in the wings, and that is where the future growth is expected.  \n\n\"I'm starting to see more business transactions,\" says Andrea West of American Telephone & Telegraph Co., noting growing interest in use of 900 service for stock sales, software tutorials and even service contracts. Colleges, she says, are eyeing registration through 900 service.",
+    "target": "interest",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "interestedness",
+        "score": 70,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "Xerox Corp. has told employees in its Crum & Forster personal insurance operations that it is laying off about 300 people, or 25% of the staff.  \n\nA spokeswoman for Crum & Forster said employees were told early this week that numerous staff functions for the personal insurance lines were going to be centralized as a cost-cutting move.",
+    "target": "people",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "persons",
+        "score": 90,
+        "cefr": 0
+      },
+      {
+        "substitute": "individual",
+        "score": 80,
+        "cefr": 1
+      },
+      {
+        "substitute": "folks",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "employee",
+        "score": 60,
+        "cefr": 1
+      },
+      {
+        "substitute": "humans",
+        "score": 60,
+        "cefr": 1
+      }
+    ]
+  },
+  {
+    "context": "\"No.\" \n                 \"Good. I invited him to dinner tomorrow.\"",
+    "target": "Good",
+    "target_pos": "ADJ",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "wonderful",
+        "score": 60,
+        "cefr": 0
+      },
+      {
+        "substitute": "nice",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "\"Interesting.\" \n                 \"You could write a play about someone like him.\" \n                 \"Perhaps.\"",
+    "target": "write",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "author",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "compose",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "write up",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "script",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "create",
+        "score": 60,
+        "cefr": 0
+      },
+      {
+        "substitute": "make",
+        "score": 60,
+        "cefr": 0
+      },
+      {
+        "substitute": "write down",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "In addition, Upjohn is offering a one-time retirement bonus equal to six months of base pay.  \n\nChairman Theodore Cooper called the program part of the company's two-year strategy to implement budget constraints and \"an effective headcount-control program.\"  \n\nBut some analysts questioned how much of an impact the retirement package will have, because few jobs will end up being eliminated.",
+    "target": "control",
+    "target_pos": "NOUN",
+    "target_cefr": null,
+    "substitutes": []
+  },
+  {
+    "context": "\"It wasn't like that.\" \n                 \"You're free.\" \n                 \"Of course.",
+    "target": "free",
+    "target_pos": "ADJ",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "freed",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "not busy",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "independent",
+        "score": 60,
+        "cefr": 1
+      }
+    ]
+  },
+  {
+    "context": "\"The critics liked it.\" \n                 \"I'm glad.\" A moment later: \"That's not why I called him 'Emil'.\"",
+    "target": "glad",
+    "target_pos": "ADJ",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "contented",
+        "score": 70,
+        "cefr": 6
+      },
+      {
+        "substitute": "delighted",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "pleased",
+        "score": 60,
+        "cefr": 1
+      }
+    ]
+  },
+  {
+    "context": "And then, because a\n                    playwright cannot resist a promising line, I said, \"Your Sleeping Flamingo\n                    should be put to sleep.\" \n                 To say her face fell would do a disservice to Tasha and to literature. (Allow me\n                    my self-indulgences as you would those of a dying man -- when I convince my\n                    mindsmith to permit the wipe, there will be another Bernardo Flynn, one who\n                    knows no more of Tasha Cortez or Vega IV than he reads here.)",
+    "target": "say",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "state",
+        "score": 90,
+        "cefr": 2
+      },
+      {
+        "substitute": "declare",
+        "score": 80,
+        "cefr": 2
+      },
+      {
+        "substitute": "suggest",
+        "score": 70,
+        "cefr": 1
+      },
+      {
+        "substitute": "claim",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "assert",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "affirm",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "mention",
+        "score": 60,
+        "cefr": 1
+      },
+      {
+        "substitute": "remark",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "think",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "\"Tell her I love her.\" \n                 He studied me, then said, \"I'm sorry things happened this way, Bernardo. I\n                    didn't anticipate last night --\"",
+    "target": "studied",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "examine",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "check out",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "watch",
+        "score": 60,
+        "cefr": 0
+      },
+      {
+        "substitute": "inspect",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "analyze",
+        "score": 60,
+        "cefr": 2
+      }
+    ]
+  },
+  {
+    "context": "\"I think his face is his form of vanity. It's the reverse of you with those\n                    ridiculous stomach muscles. Old men should be fat.\"",
+    "target": "muscles",
+    "target_pos": "NOUN",
+    "target_cefr": 2,
+    "substitutes": []
+  },
+  {
+    "context": "But it is something marvelous and rare, which is surely a\n                    sign of love. \n                 If my love for her was the only important thing, I would leave a holo of her\n                    with a note: \"Dear Future, this is Tasha Cortez. You loved her.",
+    "target": "leave",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "leave behind",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "Bringing my face close\n                    to the shoes, I breathed deeply of air that my parents had trapped while closing\n                    up that symbol of their love for me. \n                 The instant would have been improved had my baby shoes been cleaned before they\n                    were encased. But as soon as I coughed, I laughed, and I did not try to kill\n                    myself that night.",
+    "target": "instant",
+    "target_pos": "ADJ",
+    "target_cefr": 4,
+    "substitutes": []
+  },
+  {
+    "context": "As I put my hand on the impervious surface of Tasha's stopbox, I heard Malaquez\n                    run for the door. \n                 It is strange to know that we can do acts of unrepayable kindness to those we\n                    should hate. Know this, my future self: Thanks to us, Emil Malaquez's name will\n                    live as long as his masterpiece, \"A Self-Portrait: Anguish,\" endures.",
+    "target": "strange",
+    "target_pos": "ADJ",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "bizarre",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "unsettling",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "weird",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "odd",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "mystifying",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "remarkable",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "peculiar",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "astonishing",
+        "score": 60,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "\" --who took me to -- What?\" \n                 \"I'm sorry. Truly.\"",
+    "target": "sorry",
+    "target_pos": "ADJ",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "remorseful",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "repentant",
+        "score": 60,
+        "cefr": 6
+      },
+      {
+        "substitute": "regretful",
+        "score": 60,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": ") I remember suggesting,\n                    with characteristic tact, that she add Emil to her small list of major\n                    accomplishments. \n                 Malaquez glanced away, embarrassed. Tasha looked at me as if to say, \"I will.\"",
+    "target": "glanced",
+    "target_pos": "VERB",
+    "target_cefr": 4,
+    "substitutes": []
+  },
+  {
+    "context": "First of America Bank Corp. said it completed its acquisition of Midwest Financial Group Inc. for about $250 million. First of America, which now has 45 banks and $12.5 billion in assets, announced an agreement to acquire the Peoria, Ill., bank holding company in January.",
+    "target": "said",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "assert",
+        "score": 80,
+        "cefr": 4
+      },
+      {
+        "substitute": "declare",
+        "score": 80,
+        "cefr": 2
+      },
+      {
+        "substitute": "claim",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "remark",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "affirm",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "disclose",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "report",
+        "score": 70,
+        "cefr": 0
+      },
+      {
+        "substitute": "make declaration",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "announce",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "state",
+        "score": 60,
+        "cefr": 2
+      },
+      {
+        "substitute": "reveal",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "tell",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "\"She handles surprise surprisingly well.\" \n                 \"What would it hurt?\" \n                 \"True.",
+    "target": "hurt",
+    "target_pos": "VERB",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "harm",
+        "score": 80,
+        "cefr": 3
+      },
+      {
+        "substitute": "damage",
+        "score": 60,
+        "cefr": 2
+      }
+    ]
+  },
+  {
+    "context": "\"It's an honor --\" \n                 \"Of course,\" I said. \"That's why I cannot take payment.\"",
+    "target": "said",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "remark",
+        "score": 80,
+        "cefr": 3
+      },
+      {
+        "substitute": "respond",
+        "score": 70,
+        "cefr": 1
+      },
+      {
+        "substitute": "state",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "declare",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "utter",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "reply",
+        "score": 70,
+        "cefr": 1
+      },
+      {
+        "substitute": "answer",
+        "score": 70,
+        "cefr": 0
+      },
+      {
+        "substitute": "put into words",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "assert",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "verbalize",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "mention",
+        "score": 60,
+        "cefr": 1
+      },
+      {
+        "substitute": "speak",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": ". Such is the law. I say I do not care about law,\n                    I care about service and she should care about money.",
+    "target": "law",
+    "target_pos": "NOUN",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "decree",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "due process",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "Also, substantially lower Dutch corporate tax rates helped the company keep its tax outlay flat relative to earnings growth, the company added.  \n\nSales, however, were little changed at 2.46 billion guilders, compared with 2.42 billion guilders.",
+    "target": "compared",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": []
+  },
+  {
+    "context": "Tara stood stock-still, waiting for the first tiny gleam from the scout craft to\nappear in the darkness of the wormhole. The gentle constant breeze of recycled\nair from the vent above blew an annoying hair against her nose, but she ignored\nit.",
+    "target": "stood",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "remain",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "stay",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "\"If you wish.\" \n                 \"I beg you, change the color of the walls, at the very least.\" \n                 \"But of course!\"",
+    "target": "change",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "modify",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "repaint",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "replace",
+        "score": 60,
+        "cefr": 1
+      },
+      {
+        "substitute": "revise",
+        "score": 60,
+        "cefr": 2
+      }
+    ]
+  },
+  {
+    "context": "\"What?\" \n                 \"My guess.\" \n                 She batted at my nose like a cat.",
+    "target": "guess",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "prediction",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "predict",
+        "score": 60,
+        "cefr": 1
+      },
+      {
+        "substitute": "estimate",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "assumption",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "hypothesis",
+        "score": 60,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "And I invite a\n                    neighbor, one nice, lonely man --\" \n                 \"I'm sorry.\" \n                 \" --who took me to -- What?\"",
+    "target": "sorry",
+    "target_pos": "ADJ",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "remorseful",
+        "score": 60,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "\"Heavy,\" I\n                    said, as if he might not have known. \n                 He laughed. \"My last piece was of four old Undersiders crouched around a trash\n                    fire.",
+    "target": "laughed",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "giggle",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "chuckle",
+        "score": 60,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "Consoling her, I began to suspect I loved her. I\n                    moved into The Flamingo the next day; and she gave up her apartment three weeks\n                    later to join me. It was the sort of romance that happens so rarely that most\n                    people believe it does not happen at all, the sort of romance that sustains the\n                    hopeless billions who regularly watch A Wandering Star Called Love.",
+    "target": "gave",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "surrender",
+        "score": 60,
+        "cefr": 4
+      }
+    ]
+  },
+  {
+    "context": "\"Why 'Frodo'?\" \n                 Tasha said, \"A little fellow with big, furry feet. What else could he be\n                    called?\"",
+    "target": "fellow",
+    "target_pos": "NOUN",
+    "target_cefr": 5,
+    "substitutes": [
+      {
+        "substitute": "chap",
+        "score": 70,
+        "cefr": 6
+      }
+    ]
+  },
+  {
+    "context": "But much contemporary work is also fetching \"a great deal of money,\" says Miles Barth of the International Center of Photography.  \n\nDIALING 900 brings callers a growing number of services.  \n\nCurrently a $300 million-a-year business, 900 telephone service is expected to hit $500 million next year and near $2 billion by 1992 as uses for the service continue to expand, says Joel Gross of Donaldson, Lufkin & Jenrette Inc.",
+    "target": "number",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "amount",
+        "score": 60,
+        "cefr": 1
+      },
+      {
+        "substitute": "quantity",
+        "score": 60,
+        "cefr": 1
+      },
+      {
+        "substitute": "multitude",
+        "score": 60,
+        "cefr": 6
+      }
+    ]
+  },
+  {
+    "context": "\"Where!\" I demanded, squeezing his throat\n                    until he began jerking his head madly at the sculpture. \n                 I stared at the naked Tasha.",
+    "target": "began",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "start",
+        "score": 70,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "But which issue? The issue of why I am evading the\n                    issue, or the issue itself? To deal with the first: it hurts to remember.",
+    "target": "issue",
+    "target_pos": "NOUN",
+    "target_cefr": 2,
+    "substitutes": []
+  },
+  {
+    "context": "\"How's that?\" \n                 I looked at her. \n                 \"Worse?\"",
+    "target": "looked",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "gaze",
+        "score": 80,
+        "cefr": 4
+      },
+      {
+        "substitute": "stare",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "direct my eye",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "N.V. DSM said net income in the third quarter jumped 63% as the company had substantially lower extraordinary charges to account for a restructuring program.  \n\nThe Dutch chemical group said net income gained to 235 million guilders ($113.2 million), or 6.70 guilders a share, from 144 million guilders, or 4.10 guilders a share, a year ago.",
+    "target": "lower",
+    "target_pos": "ADJ",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "less",
+        "score": 70,
+        "cefr": 1
+      },
+      {
+        "substitute": "lessen",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "lesser",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "decrease",
+        "score": 60,
+        "cefr": 2
+      }
+    ]
+  },
+  {
+    "context": "Integra-A Hotel & Restaurant Co. said its planned rights offering to raise about $9 million was declared effective and the company will begin mailing materials to shareholders at the end of this week.  \n\nUnder the offer, shareholders will receive one right for each 105 common shares owned.",
+    "target": "declared",
+    "target_pos": "VERB",
+    "target_cefr": 2,
+    "substitutes": [
+      {
+        "substitute": "deem",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "announce",
+        "score": 60,
+        "cefr": 2
+      },
+      {
+        "substitute": "confirm",
+        "score": 60,
+        "cefr": 2
+      },
+      {
+        "substitute": "certify",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "proclaim",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "assert",
+        "score": 60,
+        "cefr": 4
+      }
+    ]
+  },
+  {
+    "context": "And the artist says no, only those which cause the most pain, for those\n                    would be the truest memories. \n                 So I shall soothe my quarreling selves with a compromise. I will not talk of the\n                    first time Tasha and I tried any act of sex or sport together.",
+    "target": "soothe",
+    "target_pos": "VERB",
+    "target_cefr": 4,
+    "substitutes": [
+      {
+        "substitute": "ease",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "quiet",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "appease",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "pacify",
+        "score": 60,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "\"My guess.\" \n                 She batted at my nose like a cat. \"Silly Nardo.\"",
+    "target": "nose",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "sniffer",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "nostrils",
+        "score": 60,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "But I\n                    have learned something: writing trivializes. The Tasha who was is not the Tasha\n                    in this file. The Tasha in this file is not even the Tasha I loved and thought I\n                    knew.",
+    "target": "file",
+    "target_pos": "NOUN",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "record",
+        "score": 90,
+        "cefr": 1
+      },
+      {
+        "substitute": "database",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "documents",
+        "score": 60,
+        "cefr": 1
+      }
+    ]
+  },
+  {
+    "context": "A tall, narrow\n                    stopbox stood in the center of one room; sand trickled forever downward while\n                    beads of water splashed across the sand's path. If that was Malaquez's work, it\n                    was a very minor effort. But then, I was in no mood to consider art.",
+    "target": "work",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "creation",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "handicraft",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "accomplishment",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "labor",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "business",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "\"If you wish, he may be dinner.\" \n                 \"I love you.\" \n                 \"And I, you.\"",
+    "target": "love",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "be in love with",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "adore",
+        "score": 60,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "Ballot questions range from a Maine initiative on banning Cruise missiles to a referendum on increasing the North Dakota income tax.  \n\nBallot watchers say attention already is focused on the 1990 elections. In California, two petition drives for next year's election are \"essentially finished,\" says David Schmidt, author of \"Citizen Lawmakers.\"",
+    "target": "attention",
+    "target_pos": "NOUN",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "awareness",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "focus",
+        "score": 60,
+        "cefr": 1
+      }
+    ]
+  },
+  {
+    "context": "If my love for her was the only important thing, I would leave a holo of her\n                    with a note: \"Dear Future, this is Tasha Cortez. You loved her. With warmest\n                    regards, Your Past.\"",
+    "target": "loved",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "adore",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "cherish",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "care for",
+        "score": 70,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "GOODY PRODUCTS Inc. cut its quarterly dividend to five cents a share from 11.5 cents a share. The reduced dividend is payable Jan. 2 to stock of record Dec. 15.",
+    "target": "share",
+    "target_pos": "NOUN",
+    "target_cefr": 2,
+    "substitutes": [
+      {
+        "substitute": "company share",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "trading unit",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "stock",
+        "score": 60,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "\"What's that?\" \n                 \"For your kindness in inviting a stranger into your home.\" He held it out, and\n                    with a delighted \"Oh!\"",
+    "target": "kindness",
+    "target_pos": "NOUN",
+    "target_cefr": 2,
+    "substitutes": [
+      {
+        "substitute": "goodness",
+        "score": 100,
+        "cefr": 3
+      },
+      {
+        "substitute": "generosity",
+        "score": 100,
+        "cefr": 3
+      },
+      {
+        "substitute": "hospitality",
+        "score": 90,
+        "cefr": 4
+      },
+      {
+        "substitute": "kindliness",
+        "score": 90,
+        "cefr": 4
+      },
+      {
+        "substitute": "good will",
+        "score": 90,
+        "cefr": null
+      },
+      {
+        "substitute": "friendliness",
+        "score": 80,
+        "cefr": 3
+      },
+      {
+        "substitute": "helping act",
+        "score": 80,
+        "cefr": null
+      },
+      {
+        "substitute": "good deed",
+        "score": 80,
+        "cefr": null
+      },
+      {
+        "substitute": "helpfulness",
+        "score": 80,
+        "cefr": 5
+      },
+      {
+        "substitute": "good intention",
+        "score": 80,
+        "cefr": null
+      },
+      {
+        "substitute": "warmth",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "congeniality",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "mercy",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "kindheartedness",
+        "score": 70,
+        "cefr": 6
+      },
+      {
+        "substitute": "humanity",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "graciousness",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "cordiality",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "thoughtfulness",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "courtesy",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "accommodation",
+        "score": 60,
+        "cefr": 2
+      },
+      {
+        "substitute": "decency",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "unselfishness",
+        "score": 60,
+        "cefr": 6
+      },
+      {
+        "substitute": "benevolence",
+        "score": 60,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "\"All of it.\" \n                 \"Ah, she is wonderfully perceptive.\" \n                 He raised an eyebrow, then guffawed.",
+    "target": "perceptive",
+    "target_pos": "ADJ",
+    "target_cefr": 5,
+    "substitutes": []
+  },
+  {
+    "context": "\"Oh.\" \n                 \"The critics liked it.\" \n                 \"I'm glad.\"",
+    "target": "liked",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "enjoy",
+        "score": 80,
+        "cefr": 0
+      },
+      {
+        "substitute": "take satisfaction in",
+        "score": 80,
+        "cefr": null
+      },
+      {
+        "substitute": "appreciate",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "prefer",
+        "score": 60,
+        "cefr": 0
+      },
+      {
+        "substitute": "adore",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "admire",
+        "score": 60,
+        "cefr": 2
+      }
+    ]
+  },
+  {
+    "context": "Stepping into the living room, he said, \"A beautiful house.\" \n                 \"I'm glad you came after dark.\" \n                 Tasha, by accident or design, had found an innocently erotic posture on the\n                    couch, where she lay with a book of M'duvian prints.",
+    "target": "dark",
+    "target_pos": "NOUN",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "nightfall",
+        "score": 80,
+        "cefr": 5
+      },
+      {
+        "substitute": "darkness",
+        "score": 80,
+        "cefr": 3
+      },
+      {
+        "substitute": "sundown",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "dusk",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "witching hour",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "\"Oh?\" \n                 \"He'll be our neighbor. You say we're becoming too insular, that we need to\n                    socialize --\"",
+    "target": "neighbor",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "neighbour",
+        "score": 80,
+        "cefr": 0
+      },
+      {
+        "substitute": "next door neighbor",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "next-door neighbor",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "An ambitious expansion has left Magna with excess capacity and a heavy debt load as the automotive industry enters a downturn. The company has reported declines in operating profit in each of the past three years, despite steady sales growth.  \n\nMagna recently cut its quarterly dividend in half and the company's Class A shares are wallowing far below their 52-week high of 16.125 Canadian dollars (US$13.73).",
+    "target": "reported",
+    "target_pos": "VERB",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "state",
+        "score": 60,
+        "cefr": 1
+      },
+      {
+        "substitute": "mention",
+        "score": 60,
+        "cefr": 1
+      },
+      {
+        "substitute": "reveal",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "announce",
+        "score": 60,
+        "cefr": 2
+      },
+      {
+        "substitute": "publish",
+        "score": 60,
+        "cefr": 1
+      }
+    ]
+  },
+  {
+    "context": "\"And you as well? Perhaps the two\n                    of you together?\" \n                 Her eyes became circles at the idea of being, as she undoubtedly thought it,\n                    immortalized by Emil Malaquez.",
+    "target": "together",
+    "target_pos": "ADV",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "together",
+        "score": 100,
+        "cefr": 0
+      },
+      {
+        "substitute": "jointly",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "in cooperation",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "\"Then I give up.\" \n                 \"Emil Malaquez is buying the house up the hill.\" \n                 \"Oh.\"",
+    "target": "house",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "home",
+        "score": 90,
+        "cefr": 0
+      },
+      {
+        "substitute": "dwelling",
+        "score": 80,
+        "cefr": 5
+      },
+      {
+        "substitute": "residence",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "property",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "residency",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "household",
+        "score": 60,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "\" --was kindly received,\" he said. \"But an artist who would stay first among his\n                    fellows can tell when he begins to fail.\" \n                 \"Oh?\"",
+    "target": "fail",
+    "target_pos": "VERB",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "go down",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "decline",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "fall short",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "go downhill",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "lose his way",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "go wrong",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "underperform",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "slip",
+        "score": 60,
+        "cefr": 2
+      },
+      {
+        "substitute": "deteriorate",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "wane",
+        "score": 60,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "\"No one,\" Tasha replied. \n                 Truth is always more boring than fiction. For Malaquez did not move into Dream's\n                    End until four or five months after I -- we?",
+    "target": "always",
+    "target_pos": "ADV",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "without exception",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "invariably",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "repeatedly",
+        "score": 60,
+        "cefr": 4
+      }
+    ]
+  },
+  {
+    "context": "I would pay --\" \n                 \"Never,\" I said. \n                 \"Ah.\"",
+    "target": "Never",
+    "target_pos": "ADV",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "not ever",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "no way",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "absolutely not",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "not on your life",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "forget it",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "not at all",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "I heard\n                    no voices until Malaquez said, \"Enter.\" \n                 I blinked when I opened the door. Sunlight filled Malaquez's bedroom.",
+    "target": "opened",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": []
+  },
+  {
+    "context": "He looked me and at last said, \"Very well.\" \n                 We walked through his house in silence. It was as attractive and as impersonal\n                    as a decorator could arrange for tenants of unknown taste.",
+    "target": "silence",
+    "target_pos": "NOUN",
+    "target_cefr": 2,
+    "substitutes": [
+      {
+        "substitute": "quietness",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "quiet",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "noiselessness",
+        "score": 70,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "\"You're jealous.\" \n                 \"A tiny bit. Extremely.\"",
+    "target": "bit",
+    "target_pos": "NOUN",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "shred",
+        "score": 70,
+        "cefr": 6
+      },
+      {
+        "substitute": "sliver",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "smidgen",
+        "score": 60,
+        "cefr": 6
+      }
+    ]
+  },
+  {
+    "context": "She said, \"It's beautiful, isn't it, Señor Flynn?\" \n                 My instinct was to gesture curtly with a cupped hand that she lift the wind boat\n                    and take me elsewhere. But she was young and attractive (as I have said and may\n                    say again) and eager and so happy to be assisting the infamous Bernardo Flynn\n                    that I merely raised an eyebrow in mild scepticism.",
+    "target": "elsewhere",
+    "target_pos": "ADV",
+    "target_cefr": 3,
+    "substitutes": [
+      {
+        "substitute": "somewhere else",
+        "score": 80,
+        "cefr": null
+      },
+      {
+        "substitute": "to another place",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "someplace else",
+        "score": 70,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "I said, \"Frodo's been visiting\n                    you, eh?\" \n                 Malaquez said, \"Your pet?\" \n                 \"Hardly.",
+    "target": "pet",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "animal companion",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "\"I\n                    did not expect you --\" \n                 \"So early?\" \n                 \" --on time.",
+    "target": "early",
+    "target_pos": "ADJ",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "ahead of time",
+        "score": 80,
+        "cefr": null
+      },
+      {
+        "substitute": "before appointed time",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "soon",
+        "score": 60,
+        "cefr": 0
+      },
+      {
+        "substitute": "sooner than expected",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "\"Yes,\" I said, \"Do that,\" and did not care what she did, or why. \n                 Emil asked, \"You're all right?\" I muttered something he must have interpreted as\n                    assent.",
+    "target": "right",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "good",
+        "score": 70,
+        "cefr": 0
+      },
+      {
+        "substitute": "ok",
+        "score": 60,
+        "cefr": 0
+      },
+      {
+        "substitute": "well",
+        "score": 60,
+        "cefr": 0
+      },
+      {
+        "substitute": "okay",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "\"Emil?\" \n                 \"You've no memory left, old one. Emil Malaquez.\"",
+    "target": "memory",
+    "target_pos": "NOUN",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "memory",
+        "score": 100,
+        "cefr": 1
+      },
+      {
+        "substitute": "recollection",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "retentiveness",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "remembrance",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "ability to remember",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "FALL BALLOT ISSUES set a record for off-year elections.  \n\nOdd-year elections attract relatively few ballot issues.",
+    "target": "BALLOT",
+    "target_pos": "NOUN",
+    "target_cefr": 4,
+    "substitutes": []
+  }
+]
