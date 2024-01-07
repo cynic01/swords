@@ -81,7 +81,7 @@ for sid, substitute in swords['substitutes'].items():
 # Select portion of targets (to avoid API overflow)
 # dev set has 370 targets and 1154 acceptable substitutes => 1524 calls
 # test set has 762 targets and 3048 acceptable substitutes => 3810 calls
-start, end = 600, 699
+start, end = 750, 779
 
 # Iterate through targets
 out = []
