@@ -81,13 +81,13 @@ for sid, substitute in swords['substitutes'].items():
 # Select portion of targets (to avoid API overflow)
 # dev set has 370 targets and 1154 acceptable substitutes => 1524 calls
 # test set has 762 targets and 3048 acceptable substitutes => 3810 calls
-start, end = 0, 499
+start, end = 500, 599
 
 # Iterate through targets
 out = []
-count = 0
-for tid, target in tqdm(swords['targets'].items()):
-  if count == end+1: break  # REMOVE THIS LINE TO FILTER WHOLE DATASET
+for idx, (tid, target) in tqdm(enumerate(swords['targets'].items())):
+  if idx < start: continue
+  if idx > end: break
   if ' ' in target['target']:
     continue
   context = swords['contexts'][target['context_id']]
@@ -110,5 +110,4 @@ for tid, target in tqdm(swords['targets'].items()):
               'substitutes': all_substitutes})
   with open(f'swords-v1.1_test_{start}-{end}_filtered.json', 'w') as fout:
     json.dump(out, fout, ensure_ascii=False, indent=2)
-  count += 1
   

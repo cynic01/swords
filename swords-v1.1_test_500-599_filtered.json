@@ -1,0 +1,2045 @@
+[
+  {
+    "context": "Elco Industries Inc. said it expects net income in the year ending June 30, 1990, to fall below a recent analyst's estimate of $1.65 a share.  \n\nThe Rockford, Ill., maker of fasteners also said it expects to post sales in the current fiscal year that are \"slightly above\" fiscal 1989 sales of $155 million. The company said its industrial unit continues to face margin pressures and lower demand.",
+    "target": "slightly",
+    "target_pos": "ADV",
+    "target_cefr": 2,
+    "substitutes": [
+      {
+        "substitute": "a little",
+        "score": 90,
+        "cefr": null
+      },
+      {
+        "substitute": "marginally",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "somewhat",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "to some degree",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "to some extent",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "minimally",
+        "score": 60,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "TIRED OF TRIMMING? Hammacher Schlemmer & Co. offers a fiber-optic Christmas tree that eliminates the need to string lights. The $6,500 tree is designed to send continuously changing colored light to dozens of fiber-end bunches.",
+    "target": "eliminates",
+    "target_pos": "VERB",
+    "target_cefr": 3,
+    "substitutes": [
+      {
+        "substitute": "get rid of",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "dispose of",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "get rid",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "erase",
+        "score": 70,
+        "cefr": 6
+      },
+      {
+        "substitute": "take out",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "cut out",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "Waertsilae Marine's biggest creditor is Miami-based Carnival Cruise Lines Inc. Carnival, which has three ships on order from Waertsilae Marine, presented claims for $1.5 billion damages in the bankruptcy court this week.  \n\nWaertsilae Marine's bankruptcy proceedings began Tuesday in a Helsinki court.",
+    "target": "proceedings",
+    "target_pos": "NOUN",
+    "target_cefr": 4,
+    "substitutes": [
+      {
+        "substitute": "legal process",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "Tasha snatched it from him to rip away the paper. \n            \n            \n                 I stopped writing, and only the thought that I might miss the mindwipe kept me\n                    from another spree. I went walking, but after N'apulco, Rio seems no fit abode\n                    for a creature of flesh.",
+    "target": "miss",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "overlook",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "neglect",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "miss out on",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "Tasha's witchery lay in making old acts new. Is that\n                    love? Probably not.",
+    "target": "love",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "fondness",
+        "score": 80,
+        "cefr": 2
+      },
+      {
+        "substitute": "tenderness",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "amorousness",
+        "score": 60,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "The El Paso, Texas, maker of Western boots and leather accessories said the preferred stock would accrue dividends at a 12% rate, but wouldn't be paid for the first two years. The stock would be redeemed in five years, subject to terms of the surviving company's debt.  \n\nNeither Equus nor Tony Lama gave a reason for the changed offer and Tony Lama couldn't be reached for comment.",
+    "target": "redeemed",
+    "target_pos": "VERB",
+    "target_cefr": 5,
+    "substitutes": []
+  },
+  {
+    "context": "Sandinistas Thomas Borge and the Ortega brothers are Castro proteges; he backed their takeover of Nicaragua.\nIn Colombia, the drug-financed guerrillas trying to seize the country and destroy democracy include M-19, which Castro has clearly backed.\n\nRobert Merkel, a former U.S. attorney handling drug indictments in Florida, doesn't think for a minute that Castro's much publicized trials of high officials engaged in the drug trade mean he has broken off with the Medellin drug cartel.",
+    "target": "clearly",
+    "target_pos": "ADV",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "without any doubt",
+        "score": 80,
+        "cefr": null
+      },
+      {
+        "substitute": "certainly",
+        "score": 70,
+        "cefr": 1
+      },
+      {
+        "substitute": "unmistakably",
+        "score": 60,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "Sales fell 20% to #722 million.  \n\nEarnings were hurt by disposal of operations in its restructuring, Reed said.",
+    "target": "disposal",
+    "target_pos": "NOUN",
+    "target_cefr": 3,
+    "substitutes": [
+      {
+        "substitute": "elimination",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "removal",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "discarding",
+        "score": 60,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "Revenue declined 8% to $85.7 million, from $93.3 million a year earlier. Savin cited \"a general softening in the demand for office products in the market segments in which Savin competes.\"",
+    "target": "cited",
+    "target_pos": "VERB",
+    "target_cefr": 3,
+    "substitutes": [
+      {
+        "substitute": "point out",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "We lunched together. He's nice.\" \n                 \"Oh.\"",
+    "target": "nice",
+    "target_pos": "ADJ",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "pleasant",
+        "score": 80,
+        "cefr": 1
+      },
+      {
+        "substitute": "friendly",
+        "score": 70,
+        "cefr": 0
+      },
+      {
+        "substitute": "kind",
+        "score": 70,
+        "cefr": 1
+      },
+      {
+        "substitute": "lovely",
+        "score": 70,
+        "cefr": 1
+      },
+      {
+        "substitute": "cordial",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "delightful",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "good",
+        "score": 60,
+        "cefr": 0
+      },
+      {
+        "substitute": "amiable",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "well-mannered",
+        "score": 60,
+        "cefr": 6
+      },
+      {
+        "substitute": "kindly",
+        "score": 60,
+        "cefr": 2
+      }
+    ]
+  },
+  {
+    "context": "The stock would be redeemed in five years, subject to terms of the surviving company's debt.  \n\nNeither Equus nor Tony Lama gave a reason for the changed offer and Tony Lama couldn't be reached for comment. However, Tony Lama said it would promptly submit the offer to a special committee of the company's board.",
+    "target": "comment",
+    "target_pos": "NOUN",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "input",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "a response",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "response",
+        "score": 70,
+        "cefr": 1
+      },
+      {
+        "substitute": "commentary",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "remark",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "explanation",
+        "score": 60,
+        "cefr": 1
+      }
+    ]
+  },
+  {
+    "context": "The subject shifted from music to Tasha's obsession with\n                    fame, undoubtedly by a leap that I made. She had no choice but to follow. (I do\n                    not remember any of this well, just now, nor do I care to.",
+    "target": "choice",
+    "target_pos": "NOUN",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "option",
+        "score": 80,
+        "cefr": 1
+      },
+      {
+        "substitute": "alternative",
+        "score": 70,
+        "cefr": 1
+      }
+    ]
+  },
+  {
+    "context": "The rental\n                    agent, an attractive N'apulcan named Tasha Cortez, was not mood-sensitive\n                    either. She said, \"It's beautiful, isn't it, Señor Flynn?\" \n                 My instinct was to gesture curtly with a cupped hand that she lift the wind boat\n                    and take me elsewhere.",
+    "target": "said",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "state",
+        "score": 60,
+        "cefr": 2
+      },
+      {
+        "substitute": "remark",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "add",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "The publishers in Monterrey command no battalions, but they agreed to express their outrage with editorials in today's editions.\nMany will use a common editorial.\nA final statement yesterday said: \"While some advances are being made in nations throughout the hemisphere, the state of press freedom in the Americas still must be regarded as grim as long as journalists and their families are subject to the crudest form of censorship: death by assassination.\"",
+    "target": "common",
+    "target_pos": "ADJ",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "customary",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "generic",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "ordinary",
+        "score": 60,
+        "cefr": 1
+      },
+      {
+        "substitute": "communal",
+        "score": 60,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "The editor says no,\n                    only those that are relevant. The sufferer says no, only those which cause no\n                    pain. And the artist says no, only those which cause the most pain, for those\n                    would be the truest memories.",
+    "target": "says",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "insist",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "state",
+        "score": 60,
+        "cefr": 1
+      }
+    ]
+  },
+  {
+    "context": "Tasha and I walked through The Sleeping Flamingo together, and I decided\n                    to buy it. Then -- \n            \n            \n                 This is not easy.",
+    "target": "Then",
+    "target_pos": "ADV",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "suddenly",
+        "score": 70,
+        "cefr": 1
+      },
+      {
+        "substitute": "on that occasion",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "Xerox Corp. has told employees in its Crum & Forster personal insurance operations that it is laying off about 300 people, or 25% of the staff.  \n\nA spokeswoman for Crum & Forster said employees were told early this week that numerous staff functions for the personal insurance lines were going to be centralized as a cost-cutting move.  \n\nShe said the move would result in a after-tax charge of less than $4 million to be spread over the next three quarters.",
+    "target": "lines",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": []
+  },
+  {
+    "context": "That bothered (yes, and\n                    intrigued) me until I realized that she was bored by most plays, movies, and\n                    vid. She did not like being a spectator. I often told her that she should have a\n                    bio-check to see if she suffered from some metabolic imbalance.",
+    "target": "spectator",
+    "target_pos": "NOUN",
+    "target_cefr": 3,
+    "substitutes": [
+      {
+        "substitute": "onlooker",
+        "score": 80,
+        "cefr": 5
+      },
+      {
+        "substitute": "observer",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "watcher",
+        "score": 60,
+        "cefr": 4
+      }
+    ]
+  },
+  {
+    "context": "She had\nthe look of every leader she had ever known. At six foot two, she stood a full\nhead taller than even her Arrallin first officer. Her glowering expression\ncompleted the imposing effect.",
+    "target": "even",
+    "target_pos": "ADV",
+    "target_cefr": 0,
+    "substitutes": []
+  },
+  {
+    "context": "The preferred stock, which would have a dividend rate of $1.76 a year, would be convertible into Heritage common at a rate of four common shares for each preferred. New York-based POP Radio provides, through a national, in-store network, a customized music, information and advertising service which simulates live radio. Heritage owns and operates television and radio stations and in-store advertising and promotion programs.",
+    "target": "music",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "tune",
+        "score": 60,
+        "cefr": 1
+      }
+    ]
+  },
+  {
+    "context": "You'll\n                    impoverish yourself.\" I only snarled at her and -- \n                 My story leaps ahead of itself.",
+    "target": "only",
+    "target_pos": "ADV",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "just",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "Valley Federal is currently being examined by regulators. New loans continue to slow; they were $6.6 million in the quarter compared with $361.8 million a year ago. The thrift has assets of $3.2 billion.",
+    "target": "compared",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": []
+  },
+  {
+    "context": "The McAlpine family, which operates a number of multinational companies, including a London-based engineering and construction company, also lent to Meridian National $500,000. That amount is convertible into shares of Meridian common stock at $2 a share during its one-year term. The loan may be extended by the McAlpine group for an additional year with an increase in the conversion price to $2.50 a share.",
+    "target": "convertible",
+    "target_pos": "ADJ",
+    "target_cefr": 5,
+    "substitutes": [
+      {
+        "substitute": "transferrable",
+        "score": 60,
+        "cefr": 6
+      }
+    ]
+  },
+  {
+    "context": "The company said its industrial unit continues to face margin pressures and lower demand.  \n\nIn fiscal 1989, Elco earned $7.8 million, or $1.65 a share. The company's stock fell $1.125 to $13.625 in over-the-counter trading yesterday.",
+    "target": "fiscal",
+    "target_pos": "ADJ",
+    "target_cefr": 5,
+    "substitutes": []
+  },
+  {
+    "context": "She was looking slightly to my left, smiling with trust and\n                    satisfaction like one sexually content. Malaquez stood near her, pointing\n                    something at my chest. Though the morning sun shone fully on both of them, it\n                    shimmered around Tasha.",
+    "target": "chest",
+    "target_pos": "NOUN",
+    "target_cefr": 2,
+    "substitutes": []
+  },
+  {
+    "context": "The issue of why I am evading the\n                    issue, or the issue itself? To deal with the first: it hurts to remember. If I\n                    am capable of love, I loved Tasha Cortez.",
+    "target": "deal",
+    "target_pos": "VERB",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "cope",
+        "score": 70,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "The report charged that Panama's Manuel Noriega is not only in league with the drug traffickers but also is bullying the press as never before.\n\"Noriega has closed every independent newspaper, radio and television station and arrested, tortured or forced into exile a long list of reporters,\" the statement declared.\n\nIt added: \"In Cuba, public enemy No. 1 of press freedoms in the hemisphere, repression of journalists both Cuban and foreign is worse than ever.\"",
+    "target": "television",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "tv",
+        "score": 80,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "She used the discretion of the mirrored window to secretively survey her crew.\nHarmon was an excellent addition to the bridge team, but was she open minded\nenough to defy United Earth Command and sever all ties from Earth? She watched\nthe psi bob her head, unaware of the rest of the bridge, shaking blonde curls as\nshe chattered away with the approaching psi relay on Mason's ship.",
+    "target": "team",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "group",
+        "score": 60,
+        "cefr": 0
+      },
+      {
+        "substitute": "squad",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "workers",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "The interior of The Flamingo was a welcome surprise. Cloudwood had been used in\n                    a Mediterranean manner, making the house seem primitive and civilized at the\n                    same time. The kitchen and baths had every convenience that I desired.",
+    "target": "used",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": []
+  },
+  {
+    "context": "The Van Nuys, Calif., thrift had net income of $132,000, or three cents a share, a year ago.  \n\nThe bulk of the pretax charge is a $62 million write-off of capitalized servicing at the mobile home financing subsidiary, which the company said had been a big drain on earnings. The company said the one-time provision would substantially eliminate all future losses at the unit.",
+    "target": "write",
+    "target_pos": "VERB",
+    "target_cefr": null,
+    "substitutes": []
+  },
+  {
+    "context": "Valley Federal also added $18 million to realestate loan reserves and eliminated $9.9 million of good will.  \n\nThe thrift said that \"after these charges and assuming no dramatic fluctuation in interest rates, the association expects to achieve near record earnings in 1990.\"  \n\nValley Federal is currently being examined by regulators.",
+    "target": "assuming",
+    "target_pos": "VERB",
+    "target_cefr": 3,
+    "substitutes": [
+      {
+        "substitute": "estimate",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "presume",
+        "score": 60,
+        "cefr": 4
+      }
+    ]
+  },
+  {
+    "context": "She giggled. And then we did make love. \n            \n            \n\n                 I've been thinking about the mindwipe, now two days away.",
+    "target": "then",
+    "target_pos": "ADV",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "afterward",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "after",
+        "score": 60,
+        "cefr": 0
+      },
+      {
+        "substitute": "next",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "The problem was that I have trouble distinguishing between\n                    compromise and capitulation, between symbols and substance. Shortly before noon,\n                    I climbed the sandy path to Dream's End, rehearsing my apology, slowing only to\n                    pluck burrs from between my sandals and my feet. \n                 Malaquez answered the door in blood-red pajamas and a black silk robe.",
+    "target": "slowing",
+    "target_pos": "VERB",
+    "target_cefr": 2,
+    "substitutes": [
+      {
+        "substitute": "reduce speed",
+        "score": 80,
+        "cefr": null
+      },
+      {
+        "substitute": "pause",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "stall",
+        "score": 60,
+        "cefr": 2
+      }
+    ]
+  },
+  {
+    "context": "The mindwipe\n                    will take its creation from my future self --but time too often does that\n                    without aid. The play's second act concludes with the last fight between Tasha\n                    and me. I have disguised us in the play, and deleted one brief melodramatic\n                    interchange.",
+    "target": "act",
+    "target_pos": "NOUN",
+    "target_cefr": 2,
+    "substitutes": []
+  },
+  {
+    "context": "With warmest\n                    regards, Your Past.\" \n                 Enough. Tasha and I walked through The Sleeping Flamingo together, and I decided\n                    to buy it.",
+    "target": "Enough",
+    "target_pos": "ADJ",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "enough already",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "The slaughter in Colombia was very much on the minds of 450 editors and publishers from Latin America, the United States, the Caribbean and Canada attending the 45th general assembly of the Inter-American Press Association in Monterrey, Mexico, this week.\nOn Tuesday the conference got word of another atrocity, the assassination in Medellin of two employees of El Espectador, Colombia's second-largest newspaper.\nThe paper's local administrator, Maria Luz Lopez, was shot dead, and her mother wounded, while her car was stopped for a red light.",
+    "target": "newspaper",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "paper",
+        "score": 90,
+        "cefr": 0
+      },
+      {
+        "substitute": "press",
+        "score": 70,
+        "cefr": 2
+      }
+    ]
+  },
+  {
+    "context": "The British paper, packaging and publishing concern, said profit from continuing lines fell 10% to #118 million from #130.6 million.  \n\nWhile there were no one-time gains or losses in the latest period, there was a one-time gain of #18 million in the 1988 period. And while there was no profit this year from discontinued operations, last year they contributed #34 million, before tax.",
+    "target": "gains",
+    "target_pos": "NOUN",
+    "target_cefr": 3,
+    "substitutes": [
+      {
+        "substitute": "earnings",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "income",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "winnings",
+        "score": 60,
+        "cefr": 6
+      },
+      {
+        "substitute": "proceeds",
+        "score": 60,
+        "cefr": 4
+      }
+    ]
+  },
+  {
+    "context": "Under the offer, shareholders will receive one right for each 105 common shares owned. Each right entitles the shareholder to buy $100 face amount of 13.5% bonds due 1993 and warrants to buy 23.5 common shares at 30 cents a share. The rights, which expire Nov. 21, can be exercised for $100 each.",
+    "target": "share",
+    "target_pos": "NOUN",
+    "target_cefr": 2,
+    "substitutes": []
+  },
+  {
+    "context": "That's what I get for not using\nmercenaries.\n\nShe returned to her watch, regarding her own reflection in the long window.\nMahogany-black curly hair, cut short in the typical military style framed a\ncareworn, dark-skinned face.",
+    "target": "returned",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "come back",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "Shortly before noon,\n                    I climbed the sandy path to Dream's End, rehearsing my apology, slowing only to\n                    pluck burrs from between my sandals and my feet. \n                 Malaquez answered the door in blood-red pajamas and a black silk robe. Sixty\n                    years ago in a similar situation, I had broken my knuckles on someone's face.",
+    "target": "black",
+    "target_pos": "ADJ",
+    "target_cefr": 0,
+    "substitutes": []
+  },
+  {
+    "context": "They expect him to cut costs throughout the organization.  \n\nThe company said Mr. Stronach will personally direct the restructuring, assisted by Manfred Gingl, president and chief executive. Neither they nor Mr. McAlpine could be reached for comment.",
+    "target": "chief",
+    "target_pos": "ADJ",
+    "target_cefr": 3,
+    "substitutes": []
+  },
+  {
+    "context": "You loved her. With warmest\n                    regards, Your Past.\" \n                 Enough.",
+    "target": "regards",
+    "target_pos": "VERB",
+    "target_cefr": 3,
+    "substitutes": []
+  },
+  {
+    "context": "The scout ship re-emerged from the hole - a brilliant speck emerging from a\nsphere of velvety blackness. It's hail crackled across the comm, and Tara spun\nto retake her seat at the helm. \"Launch the second probe.",
+    "target": "helm",
+    "target_pos": "NOUN",
+    "target_cefr": 5,
+    "substitutes": [
+      {
+        "substitute": "reins",
+        "score": 60,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "The Continental Baking business benefited from higher margins on bread and on increased cake sales, it added.  \n\nRalston said its Eveready battery unit was hurt by continuing economic problems in South America.  \n\nRalston shares closed yesterday at $80.50, off $1, in New York Stock Exchange composite trading.",
+    "target": "unit",
+    "target_pos": "NOUN",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "sector",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "segment",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "division",
+        "score": 60,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "We found our baby shoes protected in stopboxes. I took mine home,\n                    where they sat above my computer while I worked on my first play. One night when\n                    I did not believe love had ever existed for anyone, I used my own capturador, a\n                    sleek titanium Sanyo Tardar Ahora, to undo the stopbox.",
+    "target": "computer",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "personal computer",
+        "score": 80,
+        "cefr": null
+      },
+      {
+        "substitute": "desktop",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "cpu",
+        "score": 60,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "She screamed, \"I haven't socialized with Terra's elite for most of my life! I\n                    haven't socialized with hardly anyone for hardly any of my life! And I invite a\n                    neighbor, one nice, lonely man --\"",
+    "target": "hardly",
+    "target_pos": "ADV",
+    "target_cefr": 2,
+    "substitutes": [
+      {
+        "substitute": "barely",
+        "score": 60,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "Reed is paying an interim dividend of 4.6 pence, up 15% from 4 pence a year earlier.  \n\nSales fell 20% to #722 million.  \n\nEarnings were hurt by disposal of operations in its restructuring, Reed said.",
+    "target": "fell",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "decrease",
+        "score": 90,
+        "cefr": 2
+      },
+      {
+        "substitute": "slip",
+        "score": 80,
+        "cefr": 2
+      },
+      {
+        "substitute": "plummet",
+        "score": 80,
+        "cefr": 5
+      },
+      {
+        "substitute": "drop",
+        "score": 80,
+        "cefr": 1
+      },
+      {
+        "substitute": "drop down",
+        "score": 80,
+        "cefr": null
+      },
+      {
+        "substitute": "dip",
+        "score": 80,
+        "cefr": 3
+      },
+      {
+        "substitute": "slump",
+        "score": 80,
+        "cefr": 5
+      },
+      {
+        "substitute": "decline",
+        "score": 80,
+        "cefr": 3
+      },
+      {
+        "substitute": "down",
+        "score": 80,
+        "cefr": 0
+      },
+      {
+        "substitute": "plunge",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "recede",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "tumble",
+        "score": 60,
+        "cefr": 2
+      },
+      {
+        "substitute": "stumble",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "go down",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "sink",
+        "score": 60,
+        "cefr": 2
+      },
+      {
+        "substitute": "topple",
+        "score": 60,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "Tasha lay\n                    sprawled nude on a rumpled bed. Her skin seemed as smooth and as polished as the\n                    bed's teak frame. She was looking slightly to my left, smiling with trust and\n                    satisfaction like one sexually content.",
+    "target": "frame",
+    "target_pos": "NOUN",
+    "target_cefr": 2,
+    "substitutes": [
+      {
+        "substitute": "framework",
+        "score": 60,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "So it was as I wrote the preceding. My heart convulsed, and I left this\n                    manuscript for a three-day spree. Apparently I was so successful that it lasted\n                    a week and a half.",
+    "target": "spree",
+    "target_pos": "NOUN",
+    "target_cefr": 5,
+    "substitutes": [
+      {
+        "substitute": "escapade",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "binge",
+        "score": 60,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "The house walls shifted from pink to lavender. \n                 I stared. \n                 \"How's that?\"",
+    "target": "stared",
+    "target_pos": "VERB",
+    "target_cefr": 3,
+    "substitutes": []
+  },
+  {
+    "context": "The National Association of Diaper Services, Philadelphia, says that since January it has gotten more than 672 inquiries from people interested in starting diaper services. Elisa Hollis launched a diaper service last year because State College, Pa., where she lives, didn't have one. Diaper shortages this summer limited growth at Stork Diaper Services, Springfield, Mass., where business is up 25% in",
+    "target": "service",
+    "target_pos": "NOUN",
+    "target_cefr": 1,
+    "substitutes": []
+  },
+  {
+    "context": "The loan may be extended by the McAlpine group for an additional year with an increase in the conversion price to $2.50 a share.  \n\nThe sale of shares to the McAlpine family along with the recent sale of 750,000 shares of Meridian stock to Haden MacLellan Holding PLC of Surrey, England and a recent public offering have increased Meridian's net worth to $8.5 million, said William Feniger, chief executive officer of Toledo, Ohio-based Meridian.",
+    "target": "net",
+    "target_pos": "ADJ",
+    "target_cefr": 4,
+    "substitutes": []
+  },
+  {
+    "context": "The sale represents 10.2% of Meridian's shares outstanding.  \n\nThe McAlpine family, which operates a number of multinational companies, including a London-based engineering and construction company, also lent to Meridian National $500,000. That amount is convertible into shares of Meridian common stock at $2 a share during its one-year term.",
+    "target": "companies",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "enterprise",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "organization",
+        "score": 60,
+        "cefr": 1
+      },
+      {
+        "substitute": "corporation",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "business",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "So, I think, did she. The subject shifted from music to Tasha's obsession with\n                    fame, undoubtedly by a leap that I made. She had no choice but to follow.",
+    "target": "obsession",
+    "target_pos": "NOUN",
+    "target_cefr": 3,
+    "substitutes": [
+      {
+        "substitute": "mania",
+        "score": 80,
+        "cefr": 5
+      },
+      {
+        "substitute": "fixation",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "fascination",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "infatuation",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "addiction",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "preoccupation",
+        "score": 60,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "Ratners Group PLC, a fast-growing, acquisition-minded London-based jeweler, raised its price for Seattle-based specialty jeweler Weisfield's Inc. to $57.50 a share, or $62.1 million, from $50 a share, or $55 million, after another concern said it would be prepared to outbid Ratners's initial offer. The other concern wasn't identified.  \n\nRatners's chairman, Gerald Ratner, said the deal remains of \"substantial benefit to Ratners.\"",
+    "target": "identified",
+    "target_pos": "VERB",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "establish",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "determine",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "single out",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "The program, available to Upjohn employees 55 years old or older, could increase an individual's retirement benefits 10% to 20%. In addition, Upjohn is offering a one-time retirement bonus equal to six months of base pay.  \n\nChairman Theodore Cooper called the program part of the company's two-year strategy to implement budget constraints and \"an effective headcount-control program.\"",
+    "target": "equal",
+    "target_pos": "ADJ",
+    "target_cefr": 2,
+    "substitutes": [
+      {
+        "substitute": "equivalent",
+        "score": 90,
+        "cefr": 3
+      },
+      {
+        "substitute": "the equivalent",
+        "score": 80,
+        "cefr": null
+      },
+      {
+        "substitute": "comparable",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "proportionate",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "equable",
+        "score": 60,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "The White House said President Bush has approved duty-free treatment for imports of certain types of watches that aren't produced in \"significant quantities\" in the U.S., the Virgin Islands and other U.S. possessions.  \n\nThe action came in response to a petition filed by Timex Inc. for changes in the U.S. Generalized System of Preferences for imports from developing nations. Previously, watch imports were denied such duty-free treatment.",
+    "target": "came",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "originate",
+        "score": 80,
+        "cefr": 4
+      },
+      {
+        "substitute": "emerge",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "occur",
+        "score": 60,
+        "cefr": 2
+      }
+    ]
+  },
+  {
+    "context": "The St. Louis company earned $45.2 million, or 65 cents a share, compared with $84.9 million, or $1.24 a share, a year earlier. Sales in the latest period were $1.76 billion, a 13% increase from last year's $1.55 billion.  \n\nFor the year ended Sept. 30, Ralston earned $422.5 million, or $6.44 a share, up 8.9% from $387.8 million, or $5.63 a share.",
+    "target": "last",
+    "target_pos": "ADJ",
+    "target_cefr": 1,
+    "substitutes": []
+  },
+  {
+    "context": "Probably not. But it is something marvelous and rare, which is surely a\n                    sign of love. \n                 If my love for her was the only important thing, I would leave a holo of her\n                    with a note: \"Dear Future, this is Tasha Cortez.",
+    "target": "surely",
+    "target_pos": "ADV",
+    "target_cefr": 2,
+    "substitutes": [
+      {
+        "substitute": "absolutely",
+        "score": 90,
+        "cefr": 2
+      },
+      {
+        "substitute": "assuredly",
+        "score": 90,
+        "cefr": 4
+      },
+      {
+        "substitute": "doubtlessly",
+        "score": 70,
+        "cefr": 6
+      },
+      {
+        "substitute": "for certain",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "unquestionably",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "without doubt",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "undoubtedly",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "positively",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "unmistakably",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "unequivocally",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "without fail",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "Reuters Holdings PLC said Michael Reupke resigned as general manager to pursue unspecified interests, a move the news organization termed an \"amicable separation.\"  \n\nMr. Reupke, 52 years old and a 27-year Reuters veteran, had been the information-services company's general manager for only six months. His appointment to that post, which has senior administrative, staff and policy responsibilities, followed a several-year tenure as Reuters's editor in chief.",
+    "target": "company",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "organization",
+        "score": 90,
+        "cefr": 1
+      },
+      {
+        "substitute": "corporation",
+        "score": 80,
+        "cefr": 3
+      },
+      {
+        "substitute": "group",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "Yes, Self, I am also bothered that this observation ignores half-eaten cheese\n                    sandwiches, incomplete insect collections, and locks of infants' hair, forgotten\n                    in closets, basements, and warehouses. \n                 You see the inspiration for my latest play, \"Captured Moments.\" The mindwipe\n                    will take its creation from my future self --but time too often does that\n                    without aid.",
+    "target": "latest",
+    "target_pos": "ADJ",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "recent",
+        "score": 80,
+        "cefr": 1
+      },
+      {
+        "substitute": "new",
+        "score": 70,
+        "cefr": 0
+      },
+      {
+        "substitute": "last",
+        "score": 70,
+        "cefr": 1
+      }
+    ]
+  },
+  {
+    "context": "The\n                    following events may indicate otherwise. \n                 In fine tourist tradition, most homes on Vega IV are named. Mine was The\n                    Sleeping Flamingo, and its outer walls were coral pink.",
+    "target": "most",
+    "target_pos": "ADJ",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "the majority of",
+        "score": 90,
+        "cefr": null
+      },
+      {
+        "substitute": "nearly all",
+        "score": 90,
+        "cefr": null
+      },
+      {
+        "substitute": "almost all",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "many",
+        "score": 70,
+        "cefr": 0
+      },
+      {
+        "substitute": "a lot",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "The paper's local administrator, Maria Luz Lopez, was shot dead, and her mother wounded, while her car was stopped for a red light.\nAn hour later, the paper's circulation manager, Miguel Soler, was shot and killed near his home.\n\nThe drug lords who claimed responsibility said they would blow up the Bogota newspaper's offices if it continued to distribute in Medellin.",
+    "target": "manager",
+    "target_pos": "NOUN",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "official",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "supervisor",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "executive",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "head person",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "director",
+        "score": 60,
+        "cefr": 1
+      },
+      {
+        "substitute": "administrator",
+        "score": 60,
+        "cefr": 4
+      }
+    ]
+  },
+  {
+    "context": "Taking a cue from California, more politicians will launch their campaigns by backing initiatives, says David Magleby of Brigham Young University.  \n\nPHOTOGRAPH COLLECTING gains new stature as prices rise.  \n\nPrice records are being set at auctions this week.",
+    "target": "stature",
+    "target_pos": "NOUN",
+    "target_cefr": 5,
+    "substitutes": [
+      {
+        "substitute": "standing",
+        "score": 70,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "That amount is convertible into shares of Meridian common stock at $2 a share during its one-year term. The loan may be extended by the McAlpine group for an additional year with an increase in the conversion price to $2.50 a share.  \n\nThe sale of shares to the McAlpine family along with the recent sale of 750,000 shares of Meridian stock to Haden MacLellan Holding PLC of Surrey, England and a recent public offering have increased Meridian's net worth to $8.5 million, said William Feniger, chief executive officer of Toledo, Ohio-based Meridian.",
+    "target": "increase",
+    "target_pos": "NOUN",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "boost",
+        "score": 90,
+        "cefr": 3
+      },
+      {
+        "substitute": "gain",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "raise",
+        "score": 70,
+        "cefr": 2
+      },
+      {
+        "substitute": "hike",
+        "score": 60,
+        "cefr": 1
+      },
+      {
+        "substitute": "rise",
+        "score": 60,
+        "cefr": 2
+      }
+    ]
+  },
+  {
+    "context": "The action came in response to a petition filed by Timex Inc. for changes in the U.S. Generalized System of Preferences for imports from developing nations. Previously, watch imports were denied such duty-free treatment.  \n\nTimex had requested duty-free treatment for many types of watches, covered by 58 different U.S. tariff classifications.",
+    "target": "watch",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": []
+  },
+  {
+    "context": "The gentle constant breeze of recycled\nair from the vent above blew an annoying hair against her nose, but she ignored\nit.\n\nA gasp from the psychic broke her silent vigil, and she turned.\n\n\"Results, Harmon?\"",
+    "target": "psychic",
+    "target_pos": "ADJ",
+    "target_cefr": 5,
+    "substitutes": [
+      {
+        "substitute": "oracle",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "fortune teller",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "clairvoyant",
+        "score": 60,
+        "cefr": 6
+      },
+      {
+        "substitute": "mind reader",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "Wondering about the reason for her extravagance, I\n                    asked how work had gone that day. \n                 \"Emil came in. He's taking Dream's End.\"",
+    "target": "came",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "pop in",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "This year's results included a gain of $70.2 million on the disposal of seafood operations. Sales for the full year were $6.6 billion, up 13% from $5.8 billion.  \n\nRalston said its restructuring costs include the phase-out of a battery facility in Greenville, N.C., the recent closing of a Hostess cake bakery in Cincinnati and a reduction in staff throughout the company.",
+    "target": "full",
+    "target_pos": "ADJ",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "whole",
+        "score": 90,
+        "cefr": 1
+      },
+      {
+        "substitute": "entire",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "complete",
+        "score": 70,
+        "cefr": 0
+      },
+      {
+        "substitute": "total",
+        "score": 60,
+        "cefr": 2
+      },
+      {
+        "substitute": "overall",
+        "score": 60,
+        "cefr": 3
+      }
+    ]
+  },
+  {
+    "context": "The sufferer says no, only those which cause no\n                    pain. And the artist says no, only those which cause the most pain, for those\n                    would be the truest memories. \n                 So I shall soothe my quarreling selves with a compromise.",
+    "target": "artist",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "artisan",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "craftsman",
+        "score": 60,
+        "cefr": 4
+      }
+    ]
+  },
+  {
+    "context": "Well, if she didn't pan out, she'd be terminated. Any crew member that would\njeopardize the project was meat. It would be a shame to lose that talent,\nthough.",
+    "target": "crew",
+    "target_pos": "NOUN",
+    "target_cefr": 2,
+    "substitutes": [
+      {
+        "substitute": "squad",
+        "score": 60,
+        "cefr": 4
+      }
+    ]
+  },
+  {
+    "context": "Telerate's two independent directors have rejected the offer as inadequate. In composite trading on the New York Stock Exchange, Telerate shares closed at $19.50, up 12.5 cents.  \n\nTelerate provides an electronic financial information network.",
+    "target": "composite",
+    "target_pos": "ADJ",
+    "target_cefr": 5,
+    "substitutes": []
+  },
+  {
+    "context": "The service -- which costs the caller from 30 cents to $25 a minute -- currently is dominated by celebrity chatter, horoscopes and romance lines. But more serious applications are in the wings, and that is where the future growth is expected.  \n\n\"I'm starting to see more business transactions,\" says Andrea West of American Telephone & Telegraph Co., noting growing interest in use of 900 service for stock sales, software tutorials and even service contracts.",
+    "target": "future",
+    "target_pos": "ADJ",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "forthcoming",
+        "score": 80,
+        "cefr": 3
+      },
+      {
+        "substitute": "prospective",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "continued",
+        "score": 60,
+        "cefr": 1
+      },
+      {
+        "substitute": "eventual",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "down the road",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "We walked through his house in silence. It was as attractive and as impersonal\n                    as a decorator could arrange for tenants of unknown taste. A tall, narrow\n                    stopbox stood in the center of one room; sand trickled forever downward while\n                    beads of water splashed across the sand's path.",
+    "target": "arrange",
+    "target_pos": "VERB",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "set up",
+        "score": 80,
+        "cefr": null
+      },
+      {
+        "substitute": "organize",
+        "score": 70,
+        "cefr": 1
+      },
+      {
+        "substitute": "put together",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "devise",
+        "score": 60,
+        "cefr": 4
+      }
+    ]
+  },
+  {
+    "context": "The drug lords who claimed responsibility said they would blow up the Bogota newspaper's offices if it continued to distribute in Medellin.\nThey bombed the Bogota offices last month, destroying its computer and causing $2.5 million in damage.\n\nEl Espectador has been a special target because of the extraordinary courage of its publisher and his staff.",
+    "target": "computer",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "mainframe",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "pc",
+        "score": 60,
+        "cefr": 1
+      }
+    ]
+  },
+  {
+    "context": "Sales for the full year were $6.6 billion, up 13% from $5.8 billion.  \n\nRalston said its restructuring costs include the phase-out of a battery facility in Greenville, N.C., the recent closing of a Hostess cake bakery in Cincinnati and a reduction in staff throughout the company. The battery plant, which makes rechargeable nickel cadmium and carbon zinc products, will be closed over the next year or so, a spokesman said.",
+    "target": "costs",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "price paid",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "figure",
+        "score": 60,
+        "cefr": 1
+      },
+      {
+        "substitute": "expense",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "rate",
+        "score": 60,
+        "cefr": 1
+      },
+      {
+        "substitute": "price tag",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "Tarrin, no doubt with orders from\nMason, was questioning her command decisions. That's what I get for not using\nmercenaries.\n\nShe returned to her watch, regarding her own reflection in the long window.",
+    "target": "using",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "put to use",
+        "score": 90,
+        "cefr": null
+      },
+      {
+        "substitute": "make use of",
+        "score": 90,
+        "cefr": null
+      },
+      {
+        "substitute": "employ",
+        "score": 90,
+        "cefr": 1
+      },
+      {
+        "substitute": "make use",
+        "score": 80,
+        "cefr": null
+      },
+      {
+        "substitute": "hire",
+        "score": 80,
+        "cefr": 2
+      },
+      {
+        "substitute": "put into action",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "adopt",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "engage",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "utilize",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "enlist",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "send",
+        "score": 60,
+        "cefr": 0
+      },
+      {
+        "substitute": "choose",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "Such is the law. I say I do not care about law,\n                    I care about service and she should care about money. Enough.",
+    "target": "care",
+    "target_pos": "VERB",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "worry",
+        "score": 60,
+        "cefr": 1
+      }
+    ]
+  },
+  {
+    "context": "The earnings growth also was fueled by the company's ability to cut net financing spending by half to around 15 million guilders. Also, substantially lower Dutch corporate tax rates helped the company keep its tax outlay flat relative to earnings growth, the company added.  \n\nSales, however, were little changed at 2.46 billion guilders, compared with 2.42 billion guilders.",
+    "target": "outlay",
+    "target_pos": "NOUN",
+    "target_cefr": 5,
+    "substitutes": []
+  },
+  {
+    "context": "The part of my mind that remembered four months in NorAm during the Great\n                    Cleaning sent me rolling across the floor. Malaquez was not prepared for me to\n                    react so quickly, or perhaps he waited too long for an expression I would not\n                    have, a gesture I would not make, a poignant moment of repentence, wonder,\n                    despair, or love. Had he been faster, he could have had rage.",
+    "target": "too",
+    "target_pos": "ADV",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "inordinately",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "overly",
+        "score": 60,
+        "cefr": 4
+      },
+      {
+        "substitute": "very",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "Travelers's employee benefits group, which includes its group health insurance operations, posted earnings of $24 million, compared with a loss of $3 million last year.  \n\nIn the first nine months, net was $306 million, compared with a loss of $195 million in the 1988 period. The year-ago results included a $415 million charge in the 1988 second quarter for underperforming real estate and mortgage loans.",
+    "target": "net",
+    "target_pos": "NOUN",
+    "target_cefr": 1,
+    "substitutes": []
+  },
+  {
+    "context": "Williams shares, which were to be delisted from the New York Stock Exchange after the close of composite trading yesterday, closed at $23.25, off 12.5 cents. Primerica closed at $28.25, down 50 cents.  \n\nWilliams, Duluth, Ga., is an insurance and financial-services holding company. Its subsidiaries' services are marketed by closely held A.L. Williams & Associates.",
+    "target": "insurance",
+    "target_pos": "NOUN",
+    "target_cefr": 3,
+    "substitutes": []
+  },
+  {
+    "context": "The 32% state-owned DSM had eight million guilders of extraordinary charges in the latest quarter, mainly to reflect one-time losses in connection with the disposal of some operations. The charges were offset in part by a gain from the sale of the company's construction division.  \n\nLast year, DSM had 71 million guilders of extraordinary charges for the restructuring program and other transactions.",
+    "target": "offset",
+    "target_pos": "VERB",
+    "target_cefr": 5,
+    "substitutes": []
+  },
+  {
+    "context": "Price records are being set at auctions this week. At Christie's, a folio of 21 prints from Alfred Stieglitz's \"Equivalents\" series sold for $396,000, a single-lot record. Other works also have been exceeding price estimates.",
+    "target": "sold",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "close the deal",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "They'd scouted\ntwenty-seven gates so far, and none had turned up anything worth the\nInsurrection's time. Tara would not let giddy hopes drag them onto a rock that\nwould spell the end for the project, and the Arrallin species.",
+    "target": "rock",
+    "target_pos": "NOUN",
+    "target_cefr": 1,
+    "substitutes": []
+  },
+  {
+    "context": "shares outstanding.  \n\nThe offer, which was due to expire yesterday, is conditional on 50.1% of Dunkin' common shares, on a fully diluted basis, being tendered and on the withdrawal of the company's poison pill rights plan.",
+    "target": "conditional",
+    "target_pos": "ADJ",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "contingent",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "depending on",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "Then we\n                    went out for a late swim. \n                 I had drunk too much, I confess, though we all had. Somehow, Tasha and I began\n                    to argue the worth of Solevgrad jazz, as inconsequential a topic as I can\n                    imagine.",
+    "target": "much",
+    "target_pos": "ADJ",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "heavy",
+        "score": 60,
+        "cefr": 1
+      }
+    ]
+  },
+  {
+    "context": "That was easier than\n                    despising myself. \n                 He paused before a bedroom door. \"I should go in first.",
+    "target": "bedroom",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "bedchamber",
+        "score": 60,
+        "cefr": 6
+      }
+    ]
+  },
+  {
+    "context": "We don't know who is winning the drug war in Latin America, but we know who's losing it -- the press.\nOver the past six months, six journalists have been killed and 10 kidnapped by drug traffickers or leftist guerrillas -- who often are one and the same -- in Colombia.\nOver the past 12 years, at least 40 journalists have died there.",
+    "target": "often",
+    "target_pos": "ADV",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "oftentimes",
+        "score": 90,
+        "cefr": 4
+      },
+      {
+        "substitute": "frequently",
+        "score": 80,
+        "cefr": 2
+      },
+      {
+        "substitute": "many time",
+        "score": 80,
+        "cefr": null
+      },
+      {
+        "substitute": "commonly",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "many a time",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "usually",
+        "score": 60,
+        "cefr": 0
+      },
+      {
+        "substitute": "regularly",
+        "score": 60,
+        "cefr": 2
+      },
+      {
+        "substitute": "time after time",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "The instant would have been improved had my baby shoes been cleaned before they\n                    were encased. But as soon as I coughed, I laughed, and I did not try to kill\n                    myself that night. \n            \n            \n                Let me begin again.",
+    "target": "kill",
+    "target_pos": "VERB",
+    "target_cefr": 1,
+    "substitutes": []
+  },
+  {
+    "context": "Won't Central be\ncrushed to learn that another gateway has yielded little more than a class F\nplanet and a white dwarf system. Level 1 and 2 staffers should prepare to be\nbriefed and move out. This sounds like it's the one.\"",
+    "target": "move",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "get",
+        "score": 60,
+        "cefr": 0
+      }
+    ]
+  },
+  {
+    "context": "To prepare her.\" \n                 I smiled. \"She handles surprise surprisingly well.\"",
+    "target": "smiled",
+    "target_pos": "VERB",
+    "target_cefr": 1,
+    "substitutes": [
+      {
+        "substitute": "grin",
+        "score": 70,
+        "cefr": 4
+      }
+    ]
+  },
+  {
+    "context": "Subcontractors will be offered a settlement and a swift transition to new management is expected to avert an exodus of skilled workers from Waertsilae Marine's two big shipyards, government officials said.  \n\nUnder an accord signed yesterday, the government and Union Bank of Finland would become major shareholders in the new company, each injecting 100 million Finnish markkaa ($23.5 million). Oy Waertsilae is to contribute 200 million markkaa, most of it as subordinated debt, and take a minority stake in the new company.",
+    "target": "accord",
+    "target_pos": "NOUN",
+    "target_cefr": 5,
+    "substitutes": []
+  },
+  {
+    "context": "she suppressed the surge of annoyance that ran through her as\nshe contemplated the psi's gift of getting all the hot news first.\n\nHarmon's face slowly animated - joy sweeping in to replace stern concentration.\n\"Tarrin says the planet's a freaking gemstone!",
+    "target": "joy",
+    "target_pos": "NOUN",
+    "target_cefr": 3,
+    "substitutes": [
+      {
+        "substitute": "glee",
+        "score": 90,
+        "cefr": 5
+      },
+      {
+        "substitute": "delight",
+        "score": 80,
+        "cefr": 3
+      },
+      {
+        "substitute": "great happiness",
+        "score": 80,
+        "cefr": null
+      },
+      {
+        "substitute": "cheer",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "elation",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "bliss",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "jubilance",
+        "score": 70,
+        "cefr": 6
+      },
+      {
+        "substitute": "jubilation",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "gladness",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "merriment",
+        "score": 60,
+        "cefr": 5
+      },
+      {
+        "substitute": "gaiety",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "liveliness",
+        "score": 60,
+        "cefr": 4
+      }
+    ]
+  },
+  {
+    "context": "And the tiniest chance of\n                    all: she would blink as if I had just materialized in Emil's bedroom, and then\n                    she would laugh and tell me that she was going to be immortal. \n                 As I put my hand on the impervious surface of Tasha's stopbox, I heard Malaquez\n                    run for the door. \n                 It is strange to know that we can do acts of unrepayable kindness to those we\n                    should hate.",
+    "target": "run",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "bolt",
+        "score": 90,
+        "cefr": 5
+      },
+      {
+        "substitute": "rush",
+        "score": 80,
+        "cefr": 3
+      },
+      {
+        "substitute": "dash",
+        "score": 70,
+        "cefr": 3
+      },
+      {
+        "substitute": "sprint",
+        "score": 70,
+        "cefr": 4
+      },
+      {
+        "substitute": "scramble",
+        "score": 70,
+        "cefr": 5
+      },
+      {
+        "substitute": "take off",
+        "score": 70,
+        "cefr": null
+      },
+      {
+        "substitute": "race",
+        "score": 70,
+        "cefr": 1
+      },
+      {
+        "substitute": "hurry",
+        "score": 60,
+        "cefr": 1
+      },
+      {
+        "substitute": "spring",
+        "score": 60,
+        "cefr": 3
+      },
+      {
+        "substitute": "move rapidly",
+        "score": 60,
+        "cefr": null
+      },
+      {
+        "substitute": "scurry",
+        "score": 60,
+        "cefr": 6
+      },
+      {
+        "substitute": "make off",
+        "score": 60,
+        "cefr": null
+      }
+    ]
+  },
+  {
+    "context": "\"It is rather ugly.\" \n                 \"Thoroughly ugly,\" I corrected with smile. \n                 \"Obscenely ugly,\" said she, smiling too.",
+    "target": "corrected",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "revise",
+        "score": 60,
+        "cefr": 2
+      }
+    ]
+  },
+  {
+    "context": "Cloudwood had been used in\n                    a Mediterranean manner, making the house seem primitive and civilized at the\n                    same time. The kitchen and baths had every convenience that I desired. From the\n                    living room, the view of the beach struck me with such intensity that Tasha\n                    asked if I felt ill.",
+    "target": "baths",
+    "target_pos": "NOUN",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "bathroom",
+        "score": 90,
+        "cefr": 0
+      },
+      {
+        "substitute": "restroom",
+        "score": 70,
+        "cefr": 6
+      },
+      {
+        "substitute": "washroom",
+        "score": 70,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "\"I'm sorry.\" \n                 \" --who took me to -- What?\" \n                 \"I'm sorry.",
+    "target": "took",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "escort",
+        "score": 60,
+        "cefr": 5
+      }
+    ]
+  },
+  {
+    "context": "Tony Lama Co. said that Equus Investment II Limited Partnership has proposed changing the offer for the company to $13.65 in cash and stock from an all-cash transaction.  \n\nUnder terms of the new proposal, Equus, managed by Equus Capital Corp., Houston, would pay $12 cash and one new preferred share with a liquidation preference of $1.65 a share for each of Tony Lama's 2.1 million shares outstanding.",
+    "target": "changing",
+    "target_pos": "VERB",
+    "target_cefr": 0,
+    "substitutes": [
+      {
+        "substitute": "swap",
+        "score": 60,
+        "cefr": 4
+      }
+    ]
+  },
+  {
+    "context": "\"What?\" \n                 \"Calling him by his first name. I did that in a comedy once.",
+    "target": "first",
+    "target_pos": "ADJ",
+    "target_cefr": 0,
+    "substitutes": []
+  }
+]
