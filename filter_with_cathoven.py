@@ -70,7 +70,7 @@ def get_cefr_level(original_context, target_word):
     return cefr_level
 
 # Load benchmark
-with gzip.open('assets/parsed/swords-v1.1_dev.json.gz', 'r') as f:
+with gzip.open('assets/parsed/swords-v1.1_test.json.gz', 'r') as f:
   swords = json.load(f)
 
 # Gather substitutes by target
@@ -81,13 +81,13 @@ for sid, substitute in swords['substitutes'].items():
 # Select portion of targets (to avoid API overflow)
 # dev set has 370 targets and 1154 acceptable substitutes => 1524 calls
 # test set has 762 targets and 3048 acceptable substitutes => 3810 calls
-selected = 0
+start, end = 0, 499
 
 # Iterate through targets
 out = []
-# count = 0
+count = 0
 for tid, target in tqdm(swords['targets'].items()):
-#   if count == 5: break  # REMOVE THIS LINE TO FILTER WHOLE DATASET
+  if count == end+1: break  # REMOVE THIS LINE TO FILTER WHOLE DATASET
   if ' ' in target['target']:
     continue
   context = swords['contexts'][target['context_id']]
@@ -108,7 +108,7 @@ for tid, target in tqdm(swords['targets'].items()):
               'target_pos': target['pos'],
               'target_cefr': target_cefr,
               'substitutes': all_substitutes})
-  with open(f'swords-v1.1_dev_filtered.json', 'w') as fout:
+  with open(f'swords-v1.1_test_{start}-{end}_filtered.json', 'w') as fout:
     json.dump(out, fout, ensure_ascii=False, indent=2)
-#   count += 1
+  count += 1
   
